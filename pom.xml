@@ -36,6 +36,7 @@
 	<artifactId>geotools-sync-client-root</artifactId>
 	<packaging>pom</packaging>
 	<name>GeoTools Synchronization Client Root POM</name>
+	<version>2.5-RC2-P2</version>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

@@ -28,12 +28,13 @@
 	
 	<parent>
 		<groupId>org.geoserver.community</groupId>
-		<artifactId>geoserver-sync</artifactId>
-		<version>2.5-RC2</version>
+		<artifactId>geotools-sync-client-root</artifactId>
+		<version>2.5-RC2-P2</version>
 	</parent>
 
 	<artifactId>geoserver-sync-core</artifactId>
 	<name>geoserver-sync-core</name>
+	<version>2.5-RC2-P2</version>
 
 	<dependencies>
 		<dependency>
